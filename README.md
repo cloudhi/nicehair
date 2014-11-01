@@ -1,4 +1,2 @@
-nicehair
-========
-This is a change hair app.You can take photo and change your hair.Also,you can chat with people.It's cool.
-And Somethings you can do.The server is test.If you look it.You shouldn't use for business.Thanks!
+一个功能完善的时尚、大气的app源码-你最美 
+偶然一天看到公司同事在用一款换发型的app,当时看了下，自己也在心里构思了一下，觉得实现起来没什么难度，所以就在空闲时间模仿实现这样一款应用，至于应用名字，我就不说了，避免打广告的嫌疑，这个是我自己随便想的一个应用名字。主要的功能难点基本都实现了，剩下的很多其他的界面我看了没什么难度，基本思路都是一样，所以没继续做了，因为自己最近也有了一些想法，准备做一个自己的app，所以也没什么时间了，不过，大家也可以在我这代码的基础上继续完善，共同分享其中乐趣。应用中的数据是来自别人服务器的数据，在此多谢那位好心的兄弟分享，也希望大家别做其他商业用途。总的来说，整个代码还是很值得大家一看的，不坑人。老规矩，上图上源码地址。本来想在应用截图中自己自拍一个换发型，无奈，怕人太帅了，影响社区团结，哈哈...
